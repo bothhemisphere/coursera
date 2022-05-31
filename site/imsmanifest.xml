@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6jlK2IL1N78" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Bangladesh Country Strategy 2022-24</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Bangladesh_Country_Strategy_2022-24_ORG">
+    <organization identifier="Bangladesh_Country_Strategy_2022-24_ORG">
+      <title>Bangladesh Country Strategy 2022-24</title>
+      <item identifier="CSP_SCO" isvisible="true" identifierref="__6jlK2IL1N78_RES">
+        <title>Bangladesh Country Strategy 2022-24</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6jlK2IL1N78_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/64FLMaaClJq.js" />
+      <file href="mobile/6iuzPRX9o5S_DX2304_DY2304_CX1152_CY648.gif" />
+      <file href="story_content/5kJdYW6qU4l.js" />
+      <file href="mobile/5ke9vyXZrmz_DX3840_DY3840_CX1920_CY1080.jpg" />
+      <file href="story_content/5kObIKrOFuS.js" />
+      <file href="story_content/6MuIgayT5uc.js" />
+      <file href="story_content/62xGOFQzS2r.js" />
+      <file href="story_content/5xP5cvzB0XK.js" />
+      <file href="mobile/6pj23SDPCZe_DX2304_DY2304_CX1152_CY648.gif" />
+      <file href="story_content/5XRFnI7TZkq.js" />
+      <file href="story_content/5tr1kzPuF5Q.js" />
+      <file href="story_content/5Yu55XmoLuX.js" />
+      <file href="story_content/6CEXa1FKxic.js" />
+      <file href="mobile/5fZ3RIk5MAg_DX2304_DY2304_CX1152_CY648.gif" />
+      <file href="mobile/6j6Bs1DUjfL_DX2304_DY2304_CX1152_CY648.gif" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5Ys26Pmrhfn.png" />
+      <file href="mobile/Shape62aBnWRuGcV.png" />
+      <file href="mobile/Shape6Gs9sXkTpLV.png" />
+      <file href="mobile/Shape5sbQ54bLaVy.png" />
+      <file href="mobile/Shape6dIxisT64AK.png" />
+      <file href="mobile/Shape5xsQNJ7yUzo.png" />
+      <file href="mobile/Shape5mHU0ymiTXJ.png" />
+      <file href="mobile/Shape5zjpzY3kBk9.png" />
+      <file href="mobile/Shape6grqyVxlNhS.png" />
+      <file href="mobile/Shape6RQ5MwrZzOp.png" />
+      <file href="mobile/Shape6KltwbELmH9.png" />
+      <file href="mobile/Shape6mWnt5fNZft.png" />
+      <file href="mobile/Shape6lCih4N3UfL.png" />
+      <file href="mobile/Shape6peDwaKBreH.png" />
+      <file href="mobile/Shape5zbfSOSZqfR.png" />
+      <file href="mobile/Shape5yo2RVTRw7i.png" />
+      <file href="mobile/Shape6Jv4UypUuIw.png" />
+      <file href="mobile/Shape6q4yjxHk3PQ.png" />
+      <file href="mobile/Shape5dNFh4Il8Hj.png" />
+      <file href="mobile/Shape6UqulOrbxJR.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5buYC63rYkl.js" />
+      <file href="html5/data/js/5ctJZJcdnq4.js" />
+      <file href="html5/data/js/5l8lwAzNB66.js" />
+      <file href="html5/data/js/5yVqW2PVKpS.js" />
+      <file href="html5/data/js/5zZO7q5Uw0a.js" />
+      <file href="html5/data/js/6BdO9qYxWXi.js" />
+      <file href="html5/data/js/6bSaxBMIlnV.js" />
+      <file href="html5/data/js/6DXttAdy36f.js" />
+      <file href="html5/data/js/6gEFxWUbcFB.js" />
+      <file href="html5/data/js/6mN1atQUEWk.js" />
+      <file href="html5/data/js/6rSyHhpdyQw.js" />
+      <file href="html5/data/js/6V53vuVHcZ1.js" />
+      <file href="html5/data/js/6WAvL8xLsAt.js" />
+      <file href="html5/data/js/6YgPJVY6yG2.js" />
+      <file href="html5/data/js/6ZA09TJkAbb.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
