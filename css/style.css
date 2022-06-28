@@ -36,6 +36,13 @@ div.nav {
 	padding-top: 100px;
 }
 
+.case_images:hover {
+	filter: brightness(50%);
+	transition: all 1s ease-in-out;
+	filter: hue-rotate(180deg);
+
+}
+
 .cases_section {
 	padding-top: 100px;
 }
