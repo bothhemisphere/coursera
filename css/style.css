@@ -1,0 +1,95 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	color: #252525;	
+	box-sizing: border-box;
+}
+
+.header_text {
+	font-family: 'Prompt';
+	font-weight: bold;
+	font-size: 32px;
+	text-align: center;
+	padding-top: 60px;
+}
+
+div.nav {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-self: center;
+	text-decoration: none;
+}
+
+.nav_item {
+	/* border: 1px #ccc solid;*/
+	font-family: 'Prompt';
+	font-size: 1.25rem;
+	color: #252525;
+	padding: 20px 40px 0px 40px;
+}
+
+.emptydiv {
+	padding-top: 60px;
+}
+
+.cases_section {
+	padding-top: 100px;
+}
+
+.cases {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-self: center;
+	text-decoration: none;
+/*	border: 1px #ccc solid; */
+}
+
+.case_texts {
+	display: flex;
+	flex-direction: column;	
+	flex-wrap: wrap;
+	margin: 20px 140px 4px 40px;
+/*	border: 1px #ccc solid; */
+	align-self: flex-end; /* Aligning the elements from bottom end */
+	align-items: bottom;
+}
+
+.case_titles {
+	font-family: 'Prompt';
+	font-weight: 900;
+	font-size: 32px;
+	text-align: left;
+	padding-bottom: 20px;
+	text-transform: capitalize;
+}
+
+.case_summary {
+	font-family: 'Nunito';
+	font-size: 18px;
+	text-align: left;
+	width: 450px;
+	line-height: 30px;
+	padding-bottom: 20px;
+}
+
+.footer_copyright{
+	text-align: center;
+	color: #ffffff;
+	padding: 20px 0px 20px 0px;
+	background-color: #252525;
+}
+
+.button_see_more {
+	background: #ffd500;
+	border: none;
+	padding: 10px 30px 10px 30px;
+	font-size: 14px;
+	font-family: "Prompt";
+	font-weight: 500;
+}
