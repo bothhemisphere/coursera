@@ -36,14 +36,8 @@ div.nav {
 	padding-top: 100px;
 }
 
-.case_images:hover {
-	filter: brightness(50%);
-	transition: all 1s ease-in-out;
-	filter: hue-rotate(180deg);
-
-}
-
 .cases_section {
+	display: block;
 	padding-top: 100px;
 }
 
@@ -54,7 +48,27 @@ div.nav {
 	justify-content: center;
 	align-self: center;
 	text-decoration: none;
+	overflow: hidden;
 /*	border: 1px #ccc solid; */
+}
+
+.case_images {
+	display: block;
+	overflow: hidden;
+}
+
+.image {	
+	display: block;
+	width: 600px;
+}
+
+.image:hover {	
+	display: block;
+	filter: brightness(80%);
+	transition: all 1s ease-in-out;
+	transform: scale(1.4);
+	transform-origin: center;
+	overflow: hidden;	
 }
 
 .case_texts {
@@ -99,4 +113,9 @@ div.nav {
 	font-size: 14px;
 	font-family: "Prompt";
 	font-weight: 500;
+	cursor: pointer;
+}
+
+.banner_image {
+	width: 100%;
 }
